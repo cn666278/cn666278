@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ##
-#### 🔭 I’m currently studying on Xiamen University Malaysia...  
+#### 🔭 I’m currently studying on Xiamen University Malaysia(undergraduate)...  
 #### 🌱 I’m currently learning VUE 3.0 + Vite + TS, Java, Flutter..    
 #### 👯 I’m looking to collaborate on Flutter Task-Todo App  
 #### 🤔 I’m looking for a girlfriend XD  
