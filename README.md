@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 ##
-#### 🔭 I’m currently studying on Xiamen University Malaysia(undergraduate)...  
-#### 🌱 I’m currently learning VUE 3.0 + Vite + TS, Java, Flutter..    
+#### 🔭 I’m currently studying on Cardiff University(Postgraduate)(Software Engineer), Xiamen University Malaysia(undergraduate)(Computer Science and Technology)...  
+#### 🌱 I’m currently learning VUE 3.0 + Vite + TS, HTML+CSS+JS, Java, Flutter..    
 #### 👯 I’m looking to collaborate on Flutter Task-Todo App  
 #### 🤔 I’m looking for a girlfriend XD  
 #### 💬 Ask me about any thing?  
-#### 📫 How to reach me: wechat: cn130623  
+#### 📫 How to reach me: [LinkedIn](www.linkedin.com/in/nuo-chen-662a64296)
 #### 😄 Hobbies: singing, diy, badminton, swimming..  
 #### ⚡ Interst: Anime  
 
