@@ -8,6 +8,7 @@
 #### 📫 How to reach me: [LinkedIn](www.linkedin.com/in/nuo-chen-662a64296) or [稀土掘金](https://juejin.cn/user/1673914490042055)
 #### 😄 Hobbies: singing, diy, badminton, swimming..  
 #### ⚡ Interst: Anime  
+#### Favorite number: 42 - The answer to life, the universe and everything
 
 ##
 
