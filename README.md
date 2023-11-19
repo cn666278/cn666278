@@ -52,7 +52,6 @@
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/html.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cssgif.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vscode.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/react.webp">
 <img height="95" width="95" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vue.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/python.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
@@ -71,14 +70,20 @@
 ## Awesome repo
 <!-- Awesome repo 比较好的仓库-->
 <div align="center">
-<a href="https://github.com/sun0225SUN/Awesome-Love-Code">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sun0225SUN&repo=Awesome-Love-Code&theme=dark&bg_color=121212&hide_border=true" /></a>
-<a href="https://github.com/sun0225SUN/Student-Data-Vision">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sun0225SUN&repo=Student-Data-Vision&theme=dark&bg_color=121212&hide_border=true" /></a><br><br>
+<a href="https://github.com/cn666278/task-todo-new-edition">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=cn666278&repo=task-todo-new-edition&theme=dark&bg_color=121212&hide_border=true" /></a>
+<a href="https://github.com/cn666278/weather_forecasts">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=cn666278&repo=weather_forecasts&theme=dark&bg_color=121212&hide_border=true" /></a><br><br>
+<a href="https://github.com/cn666278/War-and-peace.com">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=cn666278&repo=War-and-peace.com&theme=dark&bg_color=121212&hide_border=true" /></a>
+<a href="https://github.com/cn666278/KidsLib">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=cn666278&repo=KidsLib&theme=dark&bg_color=121212&hide_border=true" /></a><br><br>
 </div>
 
 #### Design reference:
-[打造个性化的GitHub首页-小孙同学](https://zhuanlan.zhihu.com/p/454597068)
-[badges](https://github.com/badges/shields)
-[app icon svg](https://techstack-generator.vercel.app/)
-[skill icon](https://skillicons.dev/)
+- [打造个性化的GitHub首页-小孙同学](https://zhuanlan.zhihu.com/p/454597068)
+- [badges](https://github.com/badges/shields)
+- [app icon svg](https://techstack-generator.vercel.app/)
+- [skill icon](https://skillicons.dev/)
+- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats#demo)
+- [wakatime](https://wakatime.com/plugins/status?onboarding=true)
