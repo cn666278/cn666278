@@ -8,9 +8,9 @@
 #### 🌱 I’m currently learning VUE 3.0 + Vite + TS, HTML+CSS+JS, Java, Flutter..    
 #### 👯 I’m looking to collaborate on Flutter Task-Todo App  
 #### 💬 Ask me about any thing?  
-#### 📫 How to reach me: [LinkedIn](www.linkedin.com/in/nuo-chen-662a64296) or [稀土掘金](https://juejin.cn/user/1673914490042055)
+#### 📫 How to reach me: [LinkedIn](www.linkedin.com/in/nuo-chen-662a64296), [稀土掘金](https://juejin.cn/user/1673914490042055) or [Research Group](https://ejadlab.com/)
 #### 😄 Hobbies: singing, diy, badminton, swimming..  
-#### ⚡ Interst: Anime  
+#### ⚡ Interst: Anime : One Piece, Overlord
 #### Favorite number: 42 - The answer to life, the universe and everything
 
 
