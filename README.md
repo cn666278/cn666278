@@ -72,12 +72,12 @@
 <div align="center">
 <a href="https://github.com/cn666278/task-todo-new-edition">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=cn666278&repo=task-todo-new-edition&theme=dark&bg_color=121212&hide_border=true" /></a>
+  <a href="https://github.com/cn666278/smart-town-project">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=cn666278&repo=smart-town-project&theme=dark&bg_color=121212&hide_border=true" /></a><br><br>
 <a href="https://github.com/cn666278/weather_forecasts">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=cn666278&repo=weather_forecasts&theme=dark&bg_color=121212&hide_border=true" /></a><br><br>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=cn666278&repo=weather_forecasts&theme=dark&bg_color=121212&hide_border=true" /></a>
 <a href="https://github.com/cn666278/War-and-peace.com">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=cn666278&repo=War-and-peace.com&theme=dark&bg_color=121212&hide_border=true" /></a>
-<a href="https://github.com/cn666278/KidsLib">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=cn666278&repo=KidsLib&theme=dark&bg_color=121212&hide_border=true" /></a><br><br>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=cn666278&repo=War-and-peace.com&theme=dark&bg_color=121212&hide_border=true" /></a><br><br>
 </div>
 
 #### Design reference:
