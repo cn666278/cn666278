@@ -4,11 +4,14 @@
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif"/><br>
   
 ##
-#### 🔭 I’m currently studying on Cardiff University(Postgraduate)(Software Engineer), Xiamen University Malaysia(undergraduate)(Computer Science and Technology)...  
+#### 🔭 I’m currently studying on 
+- Cardiff University           (`Postgraduate`)   (`Software Engineer`), 
+- Xiamen University Malaysia   `(Undergraduate`)  (`Computer Science and Technology`),
+- ...  
 #### 🌱 I’m currently learning VUE 3.0 + Vite + TS, HTML+CSS+JS, Java, Flutter..    
 #### 👯 My [personal website](https://cn-personal-web.glitch.me/) 
 #### 💬 Ask me about anything?  
-#### 📫 How to reach me: [LinkedIn](www.linkedin.com/in/nuo-chen-662a64296), [稀土掘金](https://juejin.cn/user/1673914490042055) or [Research Group](https://ejadlab.com/)
+#### 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/nuo-chen-662a64296/), [稀土掘金](https://juejin.cn/user/1673914490042055) or [Research Group](https://ejadlab.com/)
 #### 😄 Hobbies: singing, DIY, badminton, swimming..  
 #### ⚡ Interst: Anime : One Piece, OverLord
 #### Favorite number: 42 - The answer to life, the universe and everything
