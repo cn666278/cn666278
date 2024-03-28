@@ -63,8 +63,8 @@
 
 
 ## Some status:
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=cn666278&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> 
-<img src="https://4sdvg7tqbv.us.aircode.run/juejin?uid=1673914490042055" alt="cn的掘金数据" style="zoom:100%;"/>
+<div align="center"> <img src="https://4sdvg7tqbv.us.aircode.run/juejin?uid=1673914490042055" alt="cn的掘金数据" style="zoom:100%;"/><br><br>
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=cn666278&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 </div>
 
 
