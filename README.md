@@ -60,8 +60,6 @@
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
 </div>
-<!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
 
 
 ## Some status:
@@ -76,15 +74,18 @@
 ## Awesome repo
 <!-- Awesome repo 比较好的仓库-->
 <div align="center">
-<a href="https://github.com/cn666278/task-todo-new-edition">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=cn666278&repo=task-todo-new-edition&theme=dark&bg_color=121212&hide_border=true" /></a>
+<a href="https://github.com/cn666278/vue-system-admin-project">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=cn666278&repo=vue-system-admin-project&theme=dark&bg_color=121212&hide_border=true" /></a>
   <a href="https://github.com/cn666278/smart-town-project">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=cn666278&repo=smart-town-project&theme=dark&bg_color=121212&hide_border=true" /></a><br><br>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=cn666278&repo=smart-town-project&theme=dark&bg_color=121212&hide_border=true" /></a><br>
+  <a href="https://github.com/cn666278/task-todo-new-edition">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=cn666278&repo=task-todo-new-edition&theme=dark&bg_color=121212&hide_border=true" /></a>
 <a href="https://github.com/cn666278/weather_forecasts">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=cn666278&repo=weather_forecasts&theme=dark&bg_color=121212&hide_border=true" /></a>
-<a href="https://github.com/cn666278/War-and-peace.com">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=cn666278&repo=War-and-peace.com&theme=dark&bg_color=121212&hide_border=true" /></a><br><br>
-</div>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=cn666278&repo=weather_forecasts&theme=dark&bg_color=121212&hide_border=true" /></a><br>
+</div><br>
+
+<!-- just img 图片 -->
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
 
 #### Design reference:
 - [打造个性化的GitHub首页-小孙同学](https://zhuanlan.zhihu.com/p/454597068)
