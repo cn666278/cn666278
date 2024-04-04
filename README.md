@@ -6,8 +6,7 @@
 ##
 #### 🔭 I’m currently studying on 
 - Cardiff University           (`Postgraduate`)   (`Software Engineer`), 
-- Xiamen University Malaysia   `(Undergraduate`)  (`Computer Science and Technology`),
-- ...  
+
 #### 🌱 I’m currently learning VUE 3.0 + Vite + TS, HTML+CSS+JS, Java, Flutter..    
 #### 👯 My [personal website](https://cn-personal-web.glitch.me/) 
 #### 💬 Ask me about anything?  
