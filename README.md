@@ -75,12 +75,12 @@
 <div align="center">
 <a href="https://github.com/cn666278/vue-system-admin-project">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=cn666278&repo=vue-system-admin-project&theme=dark&bg_color=121212&hide_border=true" /></a>
+  <a href="https://github.com/cn666278/vue3-hotel-admin-project">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=cn666278&repo=vue3-hotel-admin-project&theme=dark&bg_color=121212&hide_border=true" /></a><br>
   <a href="https://github.com/cn666278/smart-town-project">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=cn666278&repo=smart-town-project&theme=dark&bg_color=121212&hide_border=true" /></a><br>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=cn666278&repo=smart-town-project&theme=dark&bg_color=121212&hide_border=true" /></a>
   <a href="https://github.com/cn666278/task-todo-new-edition">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=cn666278&repo=task-todo-new-edition&theme=dark&bg_color=121212&hide_border=true" /></a>
-<a href="https://github.com/cn666278/weather_forecasts">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=cn666278&repo=weather_forecasts&theme=dark&bg_color=121212&hide_border=true" /></a><br>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=cn666278&repo=task-todo-new-edition&theme=dark&bg_color=121212&hide_border=true" /></a><br>
 </div><br>
 
 <!-- just img 图片 -->
